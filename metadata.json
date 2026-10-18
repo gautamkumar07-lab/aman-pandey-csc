@@ -1,0 +1,6 @@
+{
+  "name": "Aman Pandey CSC Center",
+  "description": "Authorized Common Service Center - All Government & Online Services Available Here. Aadhaar, PAN Card, Ayushman Card, Scholarships, and e-District Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
